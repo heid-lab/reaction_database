@@ -1,6 +1,6 @@
 
 The reaction_database repository includes a collection of reaction datasets. For each dataset, a folder `data`is provided.
-Each dataset has a `fullDataset` folder containing the complete dataset, and, where applicable, additional directories for any split strategies not directly supported by the DeepReaction framework.
+Each dataset has a `fullDataset` folder containing the complete dataset, and, where applicable, additional directories for any split strategies not directly supported by the ChemTorch framework.
 
 # Overview of datasets for barrier height predictions
 | name | data points | original literature (DOI) | level of theory | type of reaction | unit | coordinates (r/TS/p) | reverse reactions | data storage |
